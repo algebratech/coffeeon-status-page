@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/api-test.coffeeon.global",
     "slug": "mobile-staging-api",
     "status": "down",
-    "uptime": "52.86%",
-    "uptimeDay": "52.86%",
-    "uptimeWeek": "52.86%",
-    "uptimeMonth": "52.86%",
-    "uptimeYear": "52.86%",
+    "uptime": "2.24%",
+    "uptimeDay": "2.24%",
+    "uptimeWeek": "2.24%",
+    "uptimeMonth": "2.24%",
+    "uptimeYear": "2.24%",
     "time": 5417,
     "timeDay": 5417,
     "timeWeek": 5417,
     "timeMonth": 5417,
     "timeYear": 5417,
     "dailyMinutesDown": {
-      "2021-09-21": 0
+      "2021-09-21": 12
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://mqtt-service.coffeeon.global/staging/api/alive/",
     "icon": "https://favicons.githubusercontent.com/mqtt-service.coffeeon.global",
     "slug": "m2-m-api",
-    "status": "down",
-    "uptime": "9.64%",
-    "uptimeDay": "9.64%",
-    "uptimeWeek": "9.64%",
-    "uptimeMonth": "9.64%",
-    "uptimeYear": "9.64%",
-    "time": 459,
-    "timeDay": 459,
-    "timeWeek": 459,
-    "timeMonth": 459,
-    "timeYear": 459,
+    "status": "up",
+    "uptime": "0.48%",
+    "uptimeDay": "0.48%",
+    "uptimeWeek": "0.48%",
+    "uptimeMonth": "0.48%",
+    "uptimeYear": "0.48%",
+    "time": 962,
+    "timeDay": 962,
+    "timeWeek": 962,
+    "timeMonth": 962,
+    "timeYear": 962,
     "dailyMinutesDown": {
-      "2021-09-21": 0
+      "2021-09-21": 11
     }
   }
 ]
