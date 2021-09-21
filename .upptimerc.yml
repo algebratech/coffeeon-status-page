@@ -3,7 +3,7 @@ repo: coffeeon-status-page # The name of this repository
 
 sites:
   - name: Mobile Staging API
-    url: https://api-test.coffeeon.global
+    url: https://api-staging.coffeeon.global
   - name: M2M API
     url: https://mqtt-service.coffeeon.global/staging/api/alive/
 
