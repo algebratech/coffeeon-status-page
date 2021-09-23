@@ -4,19 +4,19 @@
     "url": "https://mqtt-service.coffeeon.global/staging/api/alive/",
     "icon": "https://favicons.githubusercontent.com/mqtt-service.coffeeon.global",
     "slug": "m2-m-api",
-    "status": "up",
-    "uptime": "99.73%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.73%",
-    "uptimeYear": "99.73%",
-    "time": 524,
-    "timeDay": 364,
-    "timeWeek": 524,
-    "timeMonth": 524,
-    "timeYear": 524,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 517,
+    "timeDay": 386,
+    "timeWeek": 517,
+    "timeMonth": 517,
+    "timeYear": 517,
     "dailyMinutesDown": {
-      "2021-09-23": 7
+      "2021-09-23": 0
     }
   }
 ]
