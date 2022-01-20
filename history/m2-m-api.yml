@@ -1,7 +1,7 @@
 url: https://mqtt-service.coffeeon.global/staging/api/alive/
 status: down
-code: 404
-responseTime: 735
-lastUpdated: 2022-01-19T23:04:00.523Z
+code: 0
+responseTime: 0
+lastUpdated: 2022-01-20T23:03:55.048Z
 startTime: Tue Sep 21 2021 19:41:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
